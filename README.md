@@ -63,7 +63,7 @@ wta_matches_qual_itf_2023.csv
 
 wta_matches_qual_itf_2024.csv
 
-⚠️ Datasets are not included in this repo due to size.
+
 
 ---
 
